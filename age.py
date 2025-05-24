@@ -1,5 +1,7 @@
 print(wali)
  a = 10 
 print(hello)
-print a = 5
+b = 5
 print(a)
+print (b)
+print (c)
